@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1716640127953" clover="3.2.0">
-  <project timestamp="1716640127953" name="All files">
+<coverage generated="1716640213214" clover="3.2.0">
+  <project timestamp="1716640213215" name="All files">
     <metrics statements="49" coveredstatements="45" conditionals="8" coveredconditionals="7" methods="21" coveredmethods="18" elements="78" coveredelements="70" complexity="0" loc="49" ncloc="49" packages="1" files="8" classes="8"/>
     <file name="async.js" path="D:\nodejs\belajar-nodejs-unit-test\src\async.js">
       <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
